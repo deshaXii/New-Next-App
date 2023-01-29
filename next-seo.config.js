@@ -9,19 +9,19 @@ export const NEXT_SEO_DEFAULT = {
     description: 'Open Graph Description A',
     images: [
       {
-        url: 'https://www.test.ie/og-image-a-01.jpg',
+        url: 'https://i.ibb.co/3v4Ps57/product6.webp',
         width: 800,
         height: 600,
         alt: 'Og Image Alt A',
-        type: 'image/jpeg',
-        secureUrl: 'https://www.test.ie/secure-og-image-a-01.jpg',
+        type: 'image/webp',
+        secureUrl: 'https://i.ibb.co/yy5G4XD/product7.webp',
       },
     ],
     siteName: 'SiteName A',
   },
   twitter: {
-    handle: '@handlea',
-    site: '@sitea',
+    handle: '@DeshaXii',
+    site: '@DeshaXii',
     cardType: 'summary_large_image',
   },
 };
